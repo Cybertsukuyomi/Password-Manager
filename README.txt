@@ -1,3 +1,5 @@
+Este es un administrador de contaseñas creada con python y MySQL
+
 La base de datos creada en MySQL seria la siguiente:
 
 CREATE DATABASE password_manager;
